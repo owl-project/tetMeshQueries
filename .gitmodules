@@ -1,0 +1,3 @@
+[submodule "submodules/owl"]
+	path = submodules/owl
+	url = http://github.com/owl-project/owl.git

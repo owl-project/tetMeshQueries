@@ -1,0 +1,1 @@
+cudaParticleAdvection.exe --num-particles 5000 --num-steps 50000 --input_mesh verts.dat cells.dat --input_tet_velocity_field solutions_cell.dat -dt 2e-3 --seeding-box  -1.5 -12.0 -1.5 50.5 -8.5 50.5 --save-streamline-to-vtk Streamline.vtk
